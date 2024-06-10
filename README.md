@@ -16,13 +16,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Assets & Code](#snippets)
-<<<<<<< HEAD
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/R8CIO1DZ2b8" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-=======
->>>>>>> 2382bfe3afbf4ef656e78eb1f28a4414233ad508
 
 ## <a name="introduction">🤖 Introduction</a>
 
